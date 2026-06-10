@@ -1,0 +1,5 @@
+# Ignore Windows and editor artifacts
+*.lnk
+Thumbs.db
+desktop.ini
+.DS_Store
